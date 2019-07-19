@@ -1,0 +1,13 @@
+img {
+  height: 300px;
+}
+
+.card {
+  width: 300px;
+  text-align: center;
+  padding: 3%;
+  margin: 1% 1%;
+  box-shadow: 5px 5px gray;
+
+  background-image: url('../../images/dust_scratches.png');
+}

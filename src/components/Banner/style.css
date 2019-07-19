@@ -1,0 +1,12 @@
+.banner {
+  background-image: url(./banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+
+  color: #fff;
+  padding: 13% 0 13% 10%;
+  
+
+}

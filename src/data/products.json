@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Blueberry",
+    "price": "$1.99",
+    "image": "popsicle-teal"
+  },
+  {
+    "name": "Lime",
+    "price": "$1.99",
+    "image": "popsicle-lime"
+  },
+  {
+    "name": "Chocolate",
+    "price": "$1.99",
+    "image": "popsicle-chocolate"
+  },
+  {
+    "name": "Vanilla",
+    "price": "$1.99",
+    "image": "popsicle-vanilla"
+  },
+  {
+    "name": "Chocolate-Dip",
+    "price": "$1.99",
+    "image": "popsicle-vanchoc"
+  },
+  {
+    "name": "Blueberry",
+    "price": "$1.99",
+    "image": "popsicle-teal"
+  },
+  {
+    "name": "Lime",
+    "price": "$1.99",
+    "image": "popsicle-lime"
+  },
+  {
+    "name": "Chocolate",
+    "price": "$1.99",
+    "image": "popsicle-chocolate"
+  },
+  {
+    "name": "Vanilla",
+    "price": "$1.99",
+    "image": "popsicle-vanilla"
+  },
+  {
+    "name": "Chocolate-Dip",
+    "price": "$1.99",
+    "image": "popsicle-vanchoc"
+  }
+]
